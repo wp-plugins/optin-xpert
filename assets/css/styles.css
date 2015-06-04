@@ -1,0 +1,300 @@
+
+/*lightbox style*/
+h2{
+  font-size: 22px !important;
+}
+
+div#optin-email-subcribe{
+
+  background-color: rgba(255,255,255,0.15);
+  padding: 10px;
+  text-align: center;
+
+}
+
+.modal-content {
+  width: 700px;
+  display: block;
+  position: relative;
+  border-radius: 0;
+}
+
+.modal-content.lightbox_layout1,
+.modal-content.lightbox_layout2,
+.modal-content.lightbox_layout3 {
+  background: #475b65;
+}
+
+.modal-body {
+  padding: 0!important;
+}
+
+input#optin_mail {
+  border-radius: 0;
+}
+
+button#optin-email-button {
+  border-radius: 0;
+}
+button#optin-stiky-email-button{
+   border-radius: 0;
+}
+
+.lightbox-optin-image {
+    width: 25%;
+    float: left;
+    background: #94CA66;
+    height: 300px;
+    position: relative;
+}
+
+
+.lightbox-optin-image img {
+      position: absolute;
+      top: 30%;
+      left: 28%;
+      width: 60%;
+}
+
+.lightbox-optin-content {
+    width: 73%;
+    float: left;
+    padding: 34px 30px 30px 90px;
+    position: relative;
+    color: #fff;
+    font-family: sans-serif;
+}
+.lightbox-optin-content p{
+  font-size: 14px
+}
+
+
+.lightbox_layout1 .lightbox-optin-content:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-style: solid;
+  border-width: 150px 60px;
+  border-color: transparent transparent transparent #94CA66;
+}
+
+
+.lightbox_layout2 .lightbox-optin-image{
+  width: 30%;
+}
+
+.lightbox_layout2 .lightbox-optin-image img{
+  left: 21%;
+}
+
+.lightbox_layout2 .lightbox-optin-content{
+  width: 60%;
+  padding: 38px 10px 25px 15px;
+}
+
+.lightbox_layout3 .lightbox-optin-image {
+  background: none;
+}
+/*
+.lightbox_layout3 .lightbox-optin-image img {
+  left: 50%;
+}*/
+
+/*Stickytop style*/
+
+.stickytop-wrapper{
+  width: 100%;
+  display: block;
+  position: relative; 
+ 
+}
+
+
+#stickytop-wrapper{ display: none;}
+#stickytop-wrapper.in{ display: block;}
+
+#stickytop-wrapper{  
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 60px;
+   
+}
+
+
+.stickytop-optin-image {
+    width: 25%;
+    float: left;
+    background: #94CA66;
+    height: 60px;
+    position: relative;
+
+}
+
+
+.stickytop-optin-image img {
+    position: absolute;
+    top: 0;
+    left: 24%;
+}
+
+
+.stickytop-optin-content {
+    width: 30%;
+    float: left;
+    padding: 3px 38px 0 90px;
+    position: relative;
+    color: #fff;
+    font-family: sans-serif;
+
+}
+
+.stickytop-text{
+  float: left;
+  position: relative;
+  padding: 7px 20px 0 45px;
+  color: #fff;
+}
+
+
+.stickytop_layout1 .stickytop-text:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-style: solid;
+  border-width: 30px 24px;
+  border-color: transparent transparent transparent #94CA66;
+}
+
+
+#stickytop-close{
+    border-radius: 30px;
+    background-color: #fff;
+    margin-top: 14px;
+    right: 0px;
+}
+
+
+
+.stickytop-wrapper.stickytop_layout1,
+.stickytop-wrapper.stickytop_layout2,
+.stickytop-wrapper.stickytop_layout3{
+  background: #475b65;   
+  z-index: 9999;
+}
+
+
+.stickytop_layout3 .stickytop-optin-image {
+  background: #475b65;
+}
+
+
+button#optin-stiky-email-button {
+    float: right;
+    margin-right: -133px;
+    margin-top: -56px;
+
+  }
+  .stickytop-text p {
+  font-size: 14px;
+  font-family: sans-serif;
+}
+
+/*flyer style*/
+
+.optin-flyin-display{
+    right: 0;
+    width: 320px;
+    position: fixed;   
+    bottom: -100%;
+    z-index: 1000;
+    color: #fff;
+}
+
+.flyin-optin-image {
+    width: 100%;
+    float: left;
+    background: #94CA66;
+    height: 150px;
+    position: relative;
+}
+
+
+.flyin-optin-image img{
+    position: absolute;
+    top: 30px;
+    left: 37%;
+    width: 31%;
+}
+
+
+
+.flyin-optin-content {
+    width: 100%;
+    float: left;
+    padding: 37px 55px 0;
+    position: relative;
+   /*  color: #fff;*/
+    background: #475b65;
+    text-align: center;
+     font-family: sans-serif;
+    
+  }
+
+.flyin-optin-mail{   
+    float: left;
+    padding: 24px 52px 0;
+    position: relative;
+   background: #475b65;
+   text-align: center;
+}
+
+#menu-close-flyin{
+    border-radius: 30px;
+    background-color: #fff;
+    margin-top: -25px;
+    margin-right: 94%;
+}
+
+.flyin-optin-content.flyer_layout1,
+.flyin-optin-content.flyer_layout2,
+.flyin-optin-content.flyer_layout3{
+  background: #475b65;;
+}
+
+
+.flyin-text{
+  float: left;
+  position: relative;
+  padding: 0 26px 0 139px;
+  color: black;
+}
+
+.flyin-optin-content p{
+    font-size: 14px;
+}
+
+
+.flyin-optin-content.flyer_layout2:before{
+  content: "";
+  position: absolute;
+  left: 0;
+  display: block;
+  border-top: 30px solid #94CA66;
+  border-left: 172px solid transparent;
+  border-right: 205px solid transparent;
+  top: 0px;
+
+
+}
+
+.flyin-optin-image.flyer_layout3 {
+  background: #475b65;
+}
+
+
+

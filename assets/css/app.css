@@ -1,0 +1,56 @@
+.xpert-optin-layout {
+  background:#373942;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  
+}
+
+.layout-flyer-1 {
+  cursor:pointer;
+}
+
+.xpert-optin-preview .flyer-preview {
+
+  position: relative;
+}
+.xpert-optin-preview .flyer-preview .flyer-pre-front {
+  position: absolute;
+  top: 30px;;
+  text-align: center;
+  font-size: 16px;
+  margin-left: 100px;
+}
+.xpert-optin-preview .flyer-preview .flyer-pre-front h2 {
+  color:#fff;
+  font-weight: bold;
+  font-size: 20px;
+}
+.xpert-optin-preview .flyer-preview .flyer-pre-front p{ 
+    color:#fff;
+  font-size: 12px;
+
+}
+
+.xpert-optin-preview-none {
+  display: none;
+}
+
+img.alignnone {
+    border: 2px solid;
+  border-radius: 150px;
+  position: absolute;
+  top: 0;
+  left: -19px;
+}
+
+
+
+.hide {
+  display: none;
+}
+
+.layout-hide {
+  display: none;
+}
+

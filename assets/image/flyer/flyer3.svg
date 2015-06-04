@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="112px" height="160px" viewBox="152.14 225.213 112 160" enable-background="new 152.14 225.213 112 160"
+	 xml:space="preserve">
+<g>
+	<g>
+		<rect x="152.422" y="225.501" fill="#475A65" width="112" height="160"/>
+	</g>
+	<g>
+		
+			<rect x="174.364" y="336.105" opacity="0.1" fill-rule="evenodd" clip-rule="evenodd" fill="#231F20" stroke="#FFFFFF" stroke-width="0.2497" stroke-miterlimit="10" width="68.115" height="11.069"/>
+		
+			<rect x="174.364" y="336.105" fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFFFFF" stroke-width="0.1248" stroke-miterlimit="10" width="68.115" height="11.069"/>
+	</g>
+	<rect x="174.364" y="353.373" fill-rule="evenodd" clip-rule="evenodd" fill="#93CA66" width="68.115" height="12.398"/>
+	<g>
+		<rect x="171.152" y="291.989" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="74.541" height="6.157"/>
+		<rect x="165.439" y="307.308" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="85.966" height="3.55"/>
+		<rect x="172.376" y="314.914" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" width="72.091" height="3.551"/>
+	</g>
+	<g>
+		<g>
+			<path fill="#0D947C" d="M220.942,272.358v-15.073c0-0.203-0.097-0.383-0.244-0.502h0.004l-12.19-10.5l-12.371,10.5h0.004
+				c-0.148,0.119-0.243,0.299-0.243,0.502v15.073c0,0.357,0.291,0.649,0.65,0.649h23.739
+				C220.649,273.008,220.942,272.716,220.942,272.358L220.942,272.358z"/>
+			<g>
+				<path opacity="0.05" fill="#FFFFFF" d="M220.942,272.359c0,0.357-0.293,0.649-0.651,0.649h-23.739
+					c-0.359,0-0.65-0.292-0.65-0.649l12.609-8.048L220.942,272.359z"/>
+				<path opacity="0.15" fill="#FFFFFF" d="M195.902,272.359v-15.073c0-0.357,0.291-0.649,0.65-0.649l11.959,7.674L195.902,272.359z
+					"/>
+				<path opacity="0.1" fill="#FFFFFF" d="M220.942,272.358v-15.073c0-0.357-0.293-0.65-0.651-0.65l-11.779,7.675L220.942,272.358z"
+					/>
+			</g>
+			<g>
+				<polygon fill="#C8C0B9" points="208.512,264.311 219.455,257.18 219.455,245.954 197.387,245.954 197.387,257.172 				"/>
+				<polygon fill="#FFF2EA" points="208.512,264.311 218.579,257.752 218.579,246.676 198.265,246.676 198.265,257.735 				"/>
+				<rect x="200.412" y="248.844" fill="#353637" width="15.89" height="1.956"/>
+				<rect x="200.412" y="251.552" fill="#92301F" width="15.89" height="0.542"/>
+				<rect x="200.412" y="254.05" fill="#353637" width="4.212" height="4.213"/>
+				<rect x="205.679" y="254.05" fill="#E2D8D1" width="10.623" height="0.571"/>
+				<rect x="205.679" y="255.705" fill="#E2D8D1" width="10.623" height="0.572"/>
+				<rect x="205.679" y="257.36" fill="#E2D8D1" width="10.623" height="0.572"/>
+				<polygon fill="#E2D8D1" points="201.149,259.586 215.763,259.586 216.302,259.236 216.302,259.015 200.683,259.015 
+					200.683,259.287 				"/>
+				<polygon fill="#E2D8D1" points="203.59,261.153 213.358,261.153 214.237,260.582 202.7,260.582 				"/>
+				<polygon fill="#E2D8D1" points="205.839,262.596 211.146,262.596 212.022,262.023 204.947,262.023 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
