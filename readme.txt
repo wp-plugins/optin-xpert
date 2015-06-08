@@ -71,4 +71,3 @@ Yes, You can if you want.
 == Upgrade Notice ==
 
 New Release
-
